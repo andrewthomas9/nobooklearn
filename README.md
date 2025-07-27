@@ -1,5 +1,4 @@
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/816186705991696406/820705097352216626/Screenshot_2021-03-14_at_22.33.48.png" alt="NoBook.learn"/>
 </p>
 
 Introduction 
@@ -66,86 +65,6 @@ Preview
 1. Python
 2. FastAPI
 3. Uvicorn
-
-
-  
-  
-  ## Contributors
-
-<table>
-<tr align="center">
-
-
-
-
-<td>
-
-Aradhya Tripathi
-
-<p align="center">
-<img src = "https://avatars.githubusercontent.com/Aradhya-Tripathi"  height="120" alt="Rusali Saha">
-</p>
-<p align="center">
-<a href = "https://github.com/Aradhya-Tripathi"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/aradhya-tripathi51/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-</td>
-
-<td>
-
-Sakshi Choudhary
-
-<p align="center">
-<img src = "https://avatars.githubusercontent.com/sakshi-choudhary"  height="120" alt="Rusali Saha">
-</p>
-<p align="center">
-<a href = "https://github.com/sakshi-choudhary"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/sakshichoudhary23/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-</td>
-
-<td>
-
-Abhishek Saxena
-
-<p align="center">
-<img src = "https://avatars.githubusercontent.com/saxenabhishek"  height="120" alt="Rusali Saha">
-</p>
-<p align="center">
-<a href = "https://github.com/saxenabhishek"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/sakshichoudhary23/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-</td>
-
-<td>
-
-Nitish Chaturvedi
-
-<p align="center">
-<img src = "https://avatars.githubusercontent.com/waterupto"  height="120" alt="person">
-</p>
-<p align="center">
-<a href = "https://github.com/waterupto"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/waterupto/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-</td>
-
-
-
-
-
-
-  </table>
-</tr>
-  </table>
 
 
 <p align="center">
